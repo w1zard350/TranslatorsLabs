@@ -4,7 +4,7 @@ Translators Labs Project
 Содержит все наработки и готовые проекты лабораторных работ по дисциплине
 "Трансляторы" для студентов [КПИ](http://kpi.ua/), факультета
 [ТЕФ](http://tef.kpi.ua/), кафедры [АПЕПС](http://apeps.kpi.ua/). [Задания
-лабораторныхработ][labsTasks], [литература][literature] и непосредственно лабораторные работы относятся к
+лабораторных работ][labsTasks], [литература][literature] и непосредственно лабораторные работы относятся к
 двум семестрам второго полугодия 2010 и первого полугодия 2011. 
 
 Каждая лабораторная работа выделена в отдельную ветку разработки, а
@@ -12,10 +12,8 @@ Translators Labs Project
 объединенных в один, поэтому используйте непосредственно ветки отдельно для
 каждой лабы.
 
-[labsTasks]:
-http://github.com/w1zard350/TranslatorsLabs/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%82
-[literature]:
-http://github.com/w1zard350/TranslatorsLabs/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0
+[labsTasks]: http://github.com/w1zard350/TranslatorsLabs/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%82
+[literature]: http://github.com/w1zard350/TranslatorsLabs/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0
 
 
 Лицензия
