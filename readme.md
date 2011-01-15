@@ -38,8 +38,7 @@ Translators Labs Project
 [download]: http://qt.nokia.com/downloads
 [qtIDE]: http://qt.nokia.com/products/developer-tools/developer-tools
 [msvs]: http://qt.nokia.com/downloads/visual-studio-add-in
-[motivation]:
-http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F
+[motivation]: http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F
 
 Установка
 ---------
