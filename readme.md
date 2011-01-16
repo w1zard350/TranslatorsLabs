@@ -23,27 +23,32 @@ Translators Labs Project (Java version)
 Системные требования
 --------------------
 
-/*
 Все очень просто:
 
-- любая операционка, которую [поддерживает][platforms] Java
-- собственно [Java][download] (JDK для вашей ОС)
+- любая операционка, которую поддерживает Java (а это все популярные и не только)
+- собственно [Java][download] 
 - средство для ввода исходного текста (например блокнот). Но лучше конечно IDE.
 - и [желание][motivation] разобраться =)
 
-[platforms]: http://qt.nokia.com/products/platform/platforms
-[download]: http://qt.nokia.com/downloads
-[qtIDE]: http://qt.nokia.com/products/developer-tools/developer-tools
-[msvs]: http://qt.nokia.com/downloads/visual-studio-add-in
+[download]: http://www.java.com/en/download/manual.jsp?locale=en&host=www.java.com
 [motivation]: http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F
-*/
 
 Установка
 ---------
 
 При разработке не используется никакая IDE и автоматической компиляции "по
-кнопочке" нет. Просто необходимо откомпилировать файл main.java и получить
+кнопочке" нет. Просто необходимо откомпилировать файл Main.java и получить
 красивый результат =)
+
+Пример компиляции:
+Заходим в корневую директорию (там должны лежать две папки bin/, src/ и файлы c
+лицензией и readme) и в консоли набираем для компиляции:
+
+javac -d bin/ -sourcepath src/ src/com/buchchenko/yuriy/translators/lab1/Main.java
+
+и для запуска программы пишем:
+
+java -classpath bin/ com.buchchenko.yuriy.translators.lab1.Main
 
 Документация и багтрекер
 ------------------------
